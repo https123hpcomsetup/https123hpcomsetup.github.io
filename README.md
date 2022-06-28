@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# 123.hp.com/setup
 
-You can use the [editor on GitHub](https://github.com/https123hpcomsetup/https123hpcomsetup.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![123.hp.com/setup](Get-Started-Now-Button3.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+HP printers have become the most famous printers for all. General business persons find it easy to use it for their business purposes. It is one of the most quality structures that give your great execution for your necessities and reason. Download and install your hp printer driver on your operating device and from **[123.hp.com/setup](https://https123hpcomsetup.github.io/)** and get benefitted by it.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Wireless HP Printer Setup and Download Steps
 
-```markdown
-Syntax highlighted code block
+**_Wireless hp printer setup is easy to download and install in your device. Just follow the mentioned steps to download hp printer setup._**
 
-# Header 1
-## Header 2
-### Header 3
+1. Turn on your hp printer and go to the control center of the printer and click on the **‘wireless’** option.
+2. Open the wireless settings menu and now select the **wireless setup** option.
+3. Then open the browser of your choice and visit **[123.hp.com/setup](https://https123hpcomsetup.github.io/)**.
+4. Go to the printer section and enter your printer’s model number.
+5. Select windows as operating system and select the version of windows.
+6. Click on the download option to install the hp printer drivers.
+7. Click on the  **‘Run’** button.
+8. Follow the on screen prompts to complete the 123 hp setup on windows computer.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## How to Install 123.hp.com/setup printer ?
 
-**Bold** and _Italic_ and `Code` text
+**_The following steps will let you install the the hp printer setup easily and without facing any issue:_**
 
-[Link](url) and ![Image](src)
-```
+1. Double-click on the downloaded hp printer file .
+2. Then, select the USB option as a printer connection type.
+3. Add the printer to the printer queue, click on the name of your printer and select the Print Click on the Add button. 
+4. Now, get back to the **HP Installer** and follow on-screen instructions on the computer to properly accomplish the installation process.
+5. Now, your printer is ready to print the documents.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Installing HP Printer Driver Using CD/DVD via 123.hp.com/setup
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/https123hpcomsetup/https123hpcomsetup.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**_Install the hp printer driver using offline mode with the given below steps;_**
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Unbox and remove all wrapping from the **CD/DVD** and insert it into its respective slot of the CD ROM.
+2. Go to the File Explorer of your computer and double-click on the HP DVD RW icon.
+3. Locate the HP Setup driver file according to the configuration of your computer, and then double-click on it to install it on the computer.
+4. Click on the Run button.
+5. Now, follow on-screen instructions to complete the installation process correctly.
